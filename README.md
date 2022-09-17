@@ -1,6 +1,15 @@
 ### Hello everybody, welcome to my GitHub Profil 👋
 
-Hello, I'm **NAJIB OULHOUCH**. I'm a **FullStack Developer(Spring boot, Laravel, Symfony..)** and **Performance Test Engineer**.
+Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm **Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony)**.
+
+I started my career as **Symfony developer** in 2013, as intern in a company :office: I developed a monolith web applications using Framework Symfony2. <br> </br>
+Below a application's repositories : </br>
+https://github.com/najiboulhouch/moviesManagement. </br>
+https://github.com/najiboulhouch/publication. </br>
+
+In 2014, i found out a beautiful Framework that changed my programmig mindset  :heart: **Spring framework** :heart: ,hence i learned it quickly by practice and development of a robust web applications with Spring. </br>
+
+I shared with you my profils for more informations :wink: : 
 
 <p>
   <a href="https://www.linkedin.com/in/najib-oulhouch/" target="_blank"><img alt="My LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,7 +30,6 @@ Hello, I'm **NAJIB OULHOUCH**. I'm a **FullStack Developer(Spring boot, Laravel,
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
