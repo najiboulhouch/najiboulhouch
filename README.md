@@ -1,13 +1,17 @@
 ### Hello everybody, welcome to my GitHub Profil 👋
 
-Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm **Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony)**.
+Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm **Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony and Angular)**.
 
 I started my career as **Symfony developer** in 2013, as intern in a company :office: I developed a monolith web applications using Framework Symfony2. <br> </br>
 Below a application's repositories : </br>
 https://github.com/najiboulhouch/moviesManagement. </br>
 https://github.com/najiboulhouch/publication. </br>
 
-In 2014, i found out a beautiful Framework that changed my programmig mindset  :heart: **Spring framework** :heart: ,hence i learned it quickly by practice and development of a robust web applications with Spring. </br>
+In 2014, i found out a beautiful Framework that changed my programmig mindset  :heart: **Spring framework** :heart: ,hence i learned it quickly by practice and development of a robust web applications. </br>
+
+
+After a great experience in Software Engineering, since 2017, I switched to Performance Engineering and Monitoring. </br>
+I worked with these tools and technologies : JMeter, NeoLoad, LoadRunner, AppDynamics, DataDog, Dynatrace, Postman, K6, Docker, Java, Linux, Grafana.
 
 I shared with you my profils for more informations :wink: : 
 
@@ -17,6 +21,7 @@ I shared with you my profils for more informations :wink: :
       <a href="http://najiboulhouch.net/" target="_blank"><img alt="My WebSite" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
 
 </p>
+
 
 
 
