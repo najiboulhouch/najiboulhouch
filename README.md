@@ -10,8 +10,8 @@ https://github.com/najiboulhouch/publication. </br>
 In 2014, i found out a beautiful Framework that changed my programmig mindset  :heart: **Spring framework** :heart: ,hence i learned it quickly by practice and development of a robust web applications. </br>
 
 
-After a great experience in Software Engineering, since 2017, I switched to Performance Engineering and Monitoring. </br>
-I worked with these tools and technologies : JMeter, NeoLoad, LoadRunner, AppDynamics, DataDog, Dynatrace, Postman, K6, Docker, Java, Linux, Grafana.
+After a great experience in Software Engineering, I switched to Performance Engineering and Monitoring, but i still practice a coding any time.
+Now i work with these tools and technologies : JMeter, NeoLoad, LoadRunner, AppDynamics, DataDog, Dynatrace, Postman, K6, Docker, Java, Linux, Grafana.
 
 I shared with you my profils for more informations :wink: : 
 
