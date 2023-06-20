@@ -1,6 +1,6 @@
 ### Hello everybody, welcome to my GitHub Profil 👋
 
-Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm ** Senior Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony and Angular)**.
+Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm **Senior Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony and Angular)**.
 
 I started my career as **Symfony developer** in 2013, as intern in a company :office: I developed a monolith web applications using Framework Symfony2. <br> </br>
 Below a application's repositories : </br>
