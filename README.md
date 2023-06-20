@@ -1,6 +1,6 @@
 ### Hello everybody, welcome to my GitHub Profil 👋
 
-Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm **Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony and Angular)**.
+Hello, I'm **NAJIB OULHOUCH** from Morocco. I'm ** Senior Performance Test Engineer** and **FullStack Developer(Spring boot, Symfony and Angular)**.
 
 I started my career as **Symfony developer** in 2013, as intern in a company :office: I developed a monolith web applications using Framework Symfony2. <br> </br>
 Below a application's repositories : </br>
@@ -18,8 +18,16 @@ I shared with you my profils for more informations :wink: :
 <p>
   <a href="https://www.linkedin.com/in/najib-oulhouch/" target="_blank"><img alt="My LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://www.youtube.com/channel/UCOc8j3MEIG2jhWl5WqoI4RQ" target="_blank"><img alt="My WebSite" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://twitter.com/najiboulhouch">
+    <img src="https://img.shields.io/twitter/follow/najiboulhouch?najiboulhouch?color=green&logo=twitter" alt="twitter" />
+  </a>
       <a href="http://najiboulhouch.net/" target="_blank"><img alt="My WebSite" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
-
+  <a href="https://github.com/najiboulhouch/najiboulhouch">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=najiboulhouch" alt="page views" />
+  </a>
+  <a href="https://github.com/najiboulhouch?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/najiboulhouch?color=green&logo=github">
+  </a>
 </p>
 
 
@@ -39,8 +47,10 @@ I shared with you my profils for more informations :wink: :
 
 
 
-## My Git References 💻
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najiboulhouch&exclude_repo=github-readme-statt&layout=compac)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=najiboulhouch&show_icons=true&theme=dracula&repo=github-readme-stats)
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=najiboulhouch&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najiboulhouch" />
+</a>
